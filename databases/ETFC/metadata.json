@@ -1,0 +1,16 @@
+{
+    "type source": "Dataset",
+    "estatico-dinamico": "Static",
+    "licencia": "No information",
+    "año de publicación": 2023.0,
+    "fecha ultima actualizacion": "2023-05-09 00:00:00",
+    "download date": "2025-04-01 00:00:00",
+    "formato": "txt;fasta",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "No information",
+    "repositorio o servidor": "https://github.com/xialab-ahu/ETFC/tree/main/ETFC/dataset",
+    "Publicacion": "https://academic.oup.com/bioinformatics/article/39/6/btad334/7175420",
+    "number_of_sequences": 2324
+}
