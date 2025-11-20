@@ -1,0 +1,16 @@
+{
+    "type source": "Dataset",
+    "estatico-dinamico": "Static",
+    "licencia": "No information",
+    "año de publicación": 2024.0,
+    "fecha ultima actualizacion": "2024-05-01 00:00:00",
+    "download date": "2025-04-01 00:00:00;2025-08-01 00:00:00;2025-08-02 00:00:00;2025-08-03 00:00:00;2025-08-04 00:00:00",
+    "formato": "csv",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Positive, Negative;Positive, Concentration constants",
+    "unidad de medida": "No information;µM",
+    "Construccion de dataset negativos": "Previously published model dataset;No information",
+    "repositorio o servidor": "https://antifungipept.chemoinfolab.com/",
+    "Publicacion": "https://pubs.acs.org/doi/10.1021/acs.jcim.4c00142",
+    "number_of_sequences": 11550
+}
