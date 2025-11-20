@@ -1,0 +1,16 @@
+{
+    "type source": "Database",
+    "estatico-dinamico": "Dynamic",
+    "licencia": "No information",
+    "año de publicación": 2019.0,
+    "fecha ultima actualizacion": "2025-08-27 00:00:00",
+    "download date": "2025-08-30 00:00:00",
+    "formato": "xlsx",
+    "peptide property": "ACE inhibitor, antioxidant, multilabel, dipeptidyl peptidase IV inhibitor, antihypertensive, antimicrobial, antibacterial, celiac toxic, opioid, immunomodulating, immunogenic peptides, antithrombotic, anticancer, neuropeptides, alpha-glucosidase inhibitor, PEP-inhibitory, hemolytic, toxic, renin inhibitor, alpha-amylase inhibitor, dipeptidyl peptidase III inhibitor, binding peptides, antiamnestic, antifungal, heparin binding, γ-glutamyl, CaMKII Inhibitor, antiviral, cholestrol-lowering, HMG-CoA reductase inhibitor, Ileum contracting, antiinflammatory, mineral-binding, anxiolitic-like, CaMPDE inhibitor, cyclooxygenase-1 inhibitor, blood-brain barrier peptides, membrane -active , mitogenic, AChE inhibitor, osteoanabolic, chemotactic, hypolipidemic, cytotoxic, antidiabetic, vasoconstrictor, vasorelaxant, embryotoxic, bacterial permease ligand, activating ubiquitin-mediated proteolysis, cytomodulatory, natriuretic",
+    "informacion del dataset": "Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "No information",
+    "repositorio o servidor": "https://biochemia.uwm.edu.pl/biopep-uwm/",
+    "Publicacion": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6928608/",
+    "number_of_sequences": 49
+}
