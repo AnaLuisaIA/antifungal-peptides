@@ -1,0 +1,16 @@
+{
+    "type source": "Database",
+    "estatico-dinamico": "Static",
+    "licencia": "No information",
+    "año de publicación": 2020.0,
+    "fecha ultima actualizacion": "2020-02-10 00:00:00",
+    "download date": "2025-07-25 00:00:00",
+    "formato": "tsv",
+    "peptide property": "antihypertensive, ACE inhibitor, anticancer, antioxidant, enzyme inhibitor, neuropeptides, antibacterial, antimicrobial, antiviral, antifungal, insecticidal, antiparasitic, anti HIV, nematocide, hemolytic, cytotoxic, celiac toxic, alpha-amylase inhibitor, HMG-CoA reductase inhibitor, DNA-binding, opioid, analgesic, antiprotist, antibiofilm, toxins, antiyeast, antihelmintic, enzymatic-degradation, trypsin-inhibitor, protein-translation-inhibitor, estrogen-like-activity, vasorelaxant, immunomodulating, antiinflammatory, immunosuppressive, uterotonic-activity, cyclooxygenase-inhibitor, antimalaria, antiplasmodial, antifeedant, antiproliferative, diuretic, molluscicidal, membrane-binding, metal-binding, signal peptide, RALF-Rapid-alkalinization-factor, taste, chaperone, allergenic, hormone, cell-growth inhibitor, defense response, anorectic, antithrombotic, antiamnestic, synthesis-stimulator, insulin-binding-protein, sodium-channel-blocker, cholestrol-lowering, dipeptidyl peptidase IV inhibitor, hypoglycemic, antidiabetic, mitogenic, HIV-1-reverse-transcriptase-inhibition",
+    "informacion del dataset": "Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "No information",
+    "repositorio o servidor": "http://14.139.61.8/PlantPepDB/",
+    "Publicacion": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7010657/",
+    "number_of_sequences": 115
+}
