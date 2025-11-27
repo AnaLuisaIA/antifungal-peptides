@@ -1,0 +1,16 @@
+{
+    "type source": "Database",
+    "estatico-dinamico": "Dynamic",
+    "licencia": "No information",
+    "año de publicación": 2015.0,
+    "fecha ultima actualizacion": "2015-11-01 00:00:00",
+    "download date": "2025-08-25 00:00:00",
+    "formato": "fasta",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "No information",
+    "repositorio o servidor": "https://webs.iiitd.edu.in/raghava/satpdb/down.php",
+    "Publicacion": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4702810/",
+    "number_of_sequences": 1275
+}
