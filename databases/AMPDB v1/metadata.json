@@ -1,0 +1,16 @@
+{
+    "type source": "Database",
+    "estatico-dinamico": "Static",
+    "licencia": "No information",
+    "año de publicación": 2023.0,
+    "fecha ultima actualizacion": "2023-04-05 00:00:00;2023-04-09 00:00:00;2023-04-24 00:00:00;2023-05-13 00:00:00",
+    "download date": "2025-08-01 00:00:00",
+    "formato": "tsv",
+    "peptide property": "antimicrobial, bacteriolytic enzyme, antibiotic, defensin, anti gram negative, bacteriocin, antifungal, plant defense, antitubercular, anti gram positive, amphibian defense, lantibiotic, antioxidant, anticandidal, antiparasitic, antiyeast, anti MRSA, antibiofilm, anti HIV, antilisterial, antiviral, antiprotozoal, antimollicute, antiplasmodial, anti HSV, anti hepatitis, antimalaria, antibacterial;anticandidal, antifungal, antimicrobial;antiyeast, antifungal, antimicrobial, taste;antifungal, antimicrobial",
+    "informacion del dataset": "Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "No information",
+    "repositorio o servidor": "https://bblserver.org.in/ampdb/",
+    "Publicacion": "https://www.nature.com/articles/s41598-023-45016-3",
+    "number_of_sequences": 3847
+}
