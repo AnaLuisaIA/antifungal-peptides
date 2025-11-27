@@ -1,0 +1,16 @@
+{
+    "type source": "Database",
+    "estatico-dinamico": "Dynamic",
+    "licencia": "No information",
+    "año de publicación": 2023.0,
+    "fecha ultima actualizacion": "2023-01-10 00:00:00",
+    "download date": "2025-06-27 00:00:00",
+    "formato": "fasta;xlsx",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "No information",
+    "repositorio o servidor": "https://www.pep-lab.info/downloads",
+    "Publicacion": "https://www.mdpi.com/2076-3417/13/2/961",
+    "number_of_sequences": 39
+}
