@@ -1,0 +1,16 @@
+{
+    "type source": "Dataset",
+    "estatico-dinamico": "Static",
+    "licencia": "No information",
+    "año de publicación": 2020.0,
+    "fecha ultima actualizacion": "No information",
+    "download date": "2025-04-01 00:00:00",
+    "formato": "fasta",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Negative;Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "Sampling from uniprot;No information",
+    "repositorio o servidor": "http://fdblab.csie.ncu.edu.tw/AMPfun/help.html",
+    "Publicacion": "https://academic.oup.com/bib/article/21/3/1098/5498051;https://academic.oup.com/bib/article/21/3/1098/5498052;https://academic.oup.com/bib/article/21/3/1098/5498053;https://academic.oup.com/bib/article/21/3/1098/5498054",
+    "number_of_sequences": 5148
+}
