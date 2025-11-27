@@ -1,0 +1,16 @@
+{
+    "type source": "Dataset",
+    "estatico-dinamico": "Static",
+    "licencia": "Creative Commons Attribution 4.0",
+    "año de publicación": 2023.0,
+    "fecha ultima actualizacion": "2023-04-30 00:00:00",
+    "download date": "2025-06-01 00:00:00",
+    "formato": "xlsx;fasta",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Positive, Negative",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "Experimentally validated",
+    "repositorio o servidor": "https://zenodo.org/records/7588702",
+    "Publicacion": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10135148",
+    "number_of_sequences": 2248
+}
