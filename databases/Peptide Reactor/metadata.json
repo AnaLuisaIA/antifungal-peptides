@@ -1,0 +1,16 @@
+{
+    "type source": "Dataset",
+    "estatico-dinamico": "Static",
+    "licencia": "MIT",
+    "año de publicación": 2021.0,
+    "fecha ultima actualizacion": "2021-05-25 00:00:00",
+    "download date": "2025-06-01 00:00:00",
+    "formato": "fasta",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Positive, Negative",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "Experimentally validated, \"Characteristic threshold (IC50, MIC, etc.)\"",
+    "repositorio o servidor": "https://github.com/spaenigs/peptidereactor",
+    "Publicacion": "https://academic.oup.com/nargab/article/3/2/lqab039/6281452",
+    "number_of_sequences": 2918
+}
