@@ -1,0 +1,16 @@
+{
+    "type source": "Dataset",
+    "estatico-dinamico": "Static",
+    "licencia": "No information",
+    "año de publicación": 2019.0,
+    "fecha ultima actualizacion": "2019-01-01 00:00:00",
+    "download date": "2025-06-01 00:00:00",
+    "formato": "fasta",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "No information",
+    "repositorio o servidor": "https://github.com/JianyuanLin/SupplementaryData/tree/master",
+    "Publicacion": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6557738/",
+    "number_of_sequences": 1035
+}
