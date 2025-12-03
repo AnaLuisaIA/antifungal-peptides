@@ -1,0 +1,16 @@
+{
+    "type source": "Dataset",
+    "estatico-dinamico": "Static",
+    "licencia": "No information",
+    "año de publicación": 2022.0,
+    "fecha ultima actualizacion": "2022-07-21 00:00:00",
+    "download date": "2025-06-01 00:00:00",
+    "formato": "fasta",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Negative;Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "Sampling from another DB, Unrelated activities;Sampling from uniprot, Previously published model dataset;Sampling from another DB, Sampling from uniprot, Unrelated activities, Previously published model dataset;No information",
+    "repositorio o servidor": "http://14.139.61.8/PTPAMP/download.php",
+    "Publicacion": "https://link.springer.com/article/10.1007/s00726-022-03190-0",
+    "number_of_sequences": 954
+}
