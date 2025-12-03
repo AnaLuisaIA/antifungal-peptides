@@ -1,0 +1,16 @@
+{
+    "type source": "Dataset",
+    "estatico-dinamico": "Dynamic",
+    "licencia": "MIT",
+    "año de publicación": 2023.0,
+    "fecha ultima actualizacion": "2024-11-22 00:00:00",
+    "download date": "2025-04-01 00:00:00",
+    "formato": "xlsx",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Positive, Negative",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "Previously published model dataset",
+    "repositorio o servidor": "https://github.com/dzjxzyd/UniDL4BioPep",
+    "Publicacion": "https://academic.oup.com/bib/article/24/3/bbad135/7107929",
+    "number_of_sequences": 1986
+}
