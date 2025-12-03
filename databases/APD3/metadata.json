@@ -1,0 +1,16 @@
+{
+    "type source": "Dataset",
+    "estatico-dinamico": "Dynamic",
+    "licencia": "MIT",
+    "año de publicación": 2021.0,
+    "fecha ultima actualizacion": "2023-03-30 00:00:00",
+    "download date": "2025-04-01 00:00:00",
+    "formato": "txt",
+    "peptide property": "antifungal, antimicrobial",
+    "informacion del dataset": "Positive",
+    "unidad de medida": "No information",
+    "Construccion de dataset negativos": "No information",
+    "repositorio o servidor": "https://github.com/scheelelab/MultiPep.git",
+    "Publicacion": "https://academic.oup.com/biomethods/article/6/1/bpab021/6433674",
+    "number_of_sequences": 1199
+}
